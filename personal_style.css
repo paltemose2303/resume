@@ -1,0 +1,14 @@
+    div{background-color: rgba(44,50,56,0.5);
+        margin-left: 500px;
+        margin-right: 500px;
+        margin-top: 500px;
+    }
+    table{width:100%;
+        background-color: rgba(44, 50, 56, 0.5);
+    }
+    a:link{
+        color: white;
+    }
+    a:visited{
+        color:white;
+    }
