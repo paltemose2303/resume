@@ -5,6 +5,7 @@
     }
     table{width:100%;
         background-color: rgba(44, 50, 56, 0.5);
+        position: sticky;
     }
     a:link{
         color: white;
